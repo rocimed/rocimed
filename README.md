@@ -79,9 +79,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rocimed&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=rocimed&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocimed&layout=compact&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rocimed&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </p>
 
