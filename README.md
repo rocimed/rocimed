@@ -1,36 +1,57 @@
+<!-- ## Hi there 👋 -->
+
+<!--
+**rocimed/rocimed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8e/dd/25/8edd25eaef846269172c3c8ed5cb1e08.gif" width="100%">
+# 🌸 Hi, I'm Rocío! 🌸
 
-# 🌸 Hi, I'm Rocío 🌸
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Developer;NestJS+%7C+Angular+%7C+Python;Always+learning+new+things+%F0%9F%92%95" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=Backend+Developer+💖;NestJS+%7C+Angular+%7C+Python;OpenAI+API+Developer;Building+AI+Chatbots+🌸" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmbXhsOHdoMHBwb3FtdzUzMTJkM3p1MHNlbGp0eWsxNmN5YjZuMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="70">
-
-Welcome to my little corner of GitHub 💕
+✨ Welcome to my GitHub profile ✨
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmbXhsOHdoMHBwb3FtdzUzMTJkM3p1MHNlbGp0eWsxNmN5YjZuMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="35"> About Me
+## 🌷 About Me
 
-🌸 Software Developer from México
+💖 Software Developer from Mexico
 
-💖 Passionate about Backend Development
+💻 Passionate about Backend Development
 
-🤖 AI & Chatbot Developer
+🌸 Currently working with:
 
-📚 Currently learning new AI technologies
+- NestJS
+- Angular
+- Python
+- OpenAI API
+- WhatsApp Cloud API
+- SQL Server
+- TypeScript
 
-☕ Coffee lover
+📚 Always learning new technologies
 
-🎀 I enjoy creating elegant and useful software.
+☕ Coffee + Music = Productivity
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmbXhsOHdoMHBwb3FtdzUzMTJkM3p1MHNlbGp0eWsxNmN5YjZuMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="35"> Tech Stack
+## 💕
 
 <p align="center">
 
@@ -38,11 +59,11 @@ Welcome to my little corner of GitHub 💕
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
@@ -54,7 +75,7 @@ Welcome to my little corner of GitHub 💕
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmbXhsOHdoMHBwb3FtdzUzMTJkM3p1MHNlbGp0eWsxNmN5YjZuMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="35"> GitHub Stats
+## 🌸 GitHub Stats
 
 <p align="center">
 
@@ -66,7 +87,7 @@ Welcome to my little corner of GitHub 💕
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmbXhsOHdoMHBwb3FtdzUzMTJkM3p1MHNlbGp0eWsxNmN5YjZuMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="35"> Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -76,42 +97,36 @@ Welcome to my little corner of GitHub 💕
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmbXhsOHdoMHBwb3FtdzUzMTJkM3p1MHNlbGp0eWsxNmN5YjZuMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="35"> GitHub Trophies
+## 🌷 Visitor Count
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rocimed&theme=dracula&no-frame=true&column=4"/>
+<img src="https://komarev.com/ghpvc/?username=rocimed&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rocimed/rocimed/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmbXhsOHdoMHBwb3FtdzUzMTJkM3p1MHNlbGp0eWsxNmN5YjZuMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="35"> Contribution Graph
+## 🌸 Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rocimed&theme=tokyo-night&bg_color=fff0f6&color=ff69b4&line=ff69b4&point=ff1493&hide_border=true"/>
+> *"Code with logic, create with passion."* 💕
 
-</p>
-
----
-
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmbXhsOHdoMHBwb3FtdzUzMTJkM3p1MHNlbGp0eWsxNmN5YjZuMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="35"> Snake Eating My Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rocimed/rocimed/output/github-contribution-grid-snake.svg">
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 🌸 "Code with logic, create with passion." 🌸
+### 💖 Thanks for visiting my profile 💖
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmbXhsOHdoMHBwb3FtdzUzMTJkM3p1MHNlbGp0eWsxNmN5YjZuMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
 
-Thanks for visiting my profile 💕
+⭐ Don't forget to leave a star if you like my projects!
 
 </div>
