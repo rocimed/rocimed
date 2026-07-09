@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rocimed/rocimed/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/rocimed/rocimed/output/github-snake.svg"/>
 </p>
 
 ---
