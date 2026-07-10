@@ -1,27 +1,12 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**rocimed/rocimed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
+
+<img src="https://i.pinimg.com/originals/8e/dd/25/8edd25eaef846269172c3c8ed5cb1e08.gif" width="88%" height="350rem">
 
 # 🌸 Hi, I'm Rocío! 🌸
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Developer;NestJS+%7C+Angular+%7C+Python;Always+learning+new+things+%F0%9F%92%95" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Developer;NestJS+%7C+Angular+%7C+Python;Always+learning+new+things+%F0%9F%92%95" />
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/> -->
 
 ✨ Welcome to my GitHub profile ✨
 
@@ -29,7 +14,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌷 About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%"> About Me
 
 💖 Software Developer from Mexico
 
@@ -51,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 💕 Skills
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%"> Skills <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/naV9mE2LwXKViHQZ6h/giphy.gif" width="4%" align="right"> 
 
 <p align="center">
 
@@ -75,7 +60,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌸 GitHub Stats
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%"> GitHub Stats
 
 <p align="center">
 
@@ -87,7 +72,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔥 GitHub Streak
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%"> GitHub Streak
 
 <p align="center">
 
@@ -97,7 +82,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌷 Visitor Count
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%"> Visitor Count
 
 <p align="center">
 
@@ -111,7 +96,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌸 Quote
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%"> Quote
 
 <div align="center">
 
@@ -123,9 +108,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 💖 Thanks for visiting my profile 💖
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks for visiting my profile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODljMXdvNmJiZHRwc3o2bGo1NjEzMXVmNjBmdGU1MWE2dWpoMzA2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIXDy7zCGIFtfXwxoL/giphy.gif" width="6%">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTl6NTV5NWRnZTh0dGI1ems4MWc3Y2YybXpqdW5sc2p3NHhqZ2c1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8nH6xtdefALrKslyrj/giphy.gif" width="30%"/>
 
 ⭐ Don't forget to leave a star if you like my projects!
 
